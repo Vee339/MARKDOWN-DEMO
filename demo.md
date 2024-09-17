@@ -43,3 +43,7 @@ One more example:
 ## Links
 
 This is a link to my [portfolio](https://vee339.github.io/veerpal.github.io)
+
+## My favorite game
+
+![Whoa my favorite game is badminton](badminton.md)
