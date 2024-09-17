@@ -53,3 +53,11 @@ This is a link to my [portfolio](https://vee339.github.io/veerpal.github.io)
 We can put inline code by using a tic.
 
 To add an image use an `<img>` tag.
+
+We can add multi-line code by using three tics and the name of the coding language:
+
+```
+function test(){
+    console.log("This is a javascript code");
+}
+```
