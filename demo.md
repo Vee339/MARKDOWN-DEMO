@@ -70,3 +70,8 @@ function test() {
 | JavaScript | 7      |
 | CSS        | 9      |
 | PHP        | 4      |
+
+## Github Flavour
+
+> [!Note]
+> This is a note!
