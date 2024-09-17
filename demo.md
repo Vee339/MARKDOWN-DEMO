@@ -47,3 +47,9 @@ This is a link to my [portfolio](https://vee339.github.io/veerpal.github.io)
 ## My favorite game
 
 ![Whoa my favorite game is badminton](badminton.jpg)
+
+## Code
+
+We can put inline code by using a tic.
+
+To add an image use an `<img>` tag.
