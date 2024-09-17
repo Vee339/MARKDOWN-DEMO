@@ -61,3 +61,11 @@ function test() {
   console.log("This is a javascript code");
 }
 ```
+
+## Tables
+
+| Language   | Rating |
+| ---------- | ------ |
+| HTML       | 5      |
+| JavaScript | 7      |
+| CSS        | 9      |
