@@ -9,3 +9,33 @@ This text is **bold**.
 This text is _italic_.
 
 This text is **_bold and italic_**.
+
+This text is also **_bold and italic_**.
+
+This text is **_bold and italic_**.
+
+##List
+
+This is an ordered list:
+
+1. Item number one
+2. Item number two
+3. Item number three
+
+Examples of an unordered list:
+
+- Item number one
+- Item number two
+- Item number three
+
+Another examples:
+
+- One
+- Two
+- Three
+
+One more example:
+
+- One
+- Two
+- Three
